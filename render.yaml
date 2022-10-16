@@ -1,7 +1,7 @@
 services:
 - type: web
   name: advantage-api-staging
-  plan: free
+  plan: starter
   env: docker
   region: ohio
   autoDeploy: false
