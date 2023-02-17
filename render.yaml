@@ -23,5 +23,5 @@ services:
     value: anonymous
 databases:
 - name: staging-advantage-api
-  postgresMajorVersion: 14
+  postgresMajorVersion: 15
   region: ohio
